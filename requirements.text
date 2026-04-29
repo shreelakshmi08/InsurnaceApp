@@ -1,6 +1,5 @@
-streamlit
 pandas
 numpy
 scikit-learn
-matplotlib
 seaborn==0.13.2
+streamlit
