@@ -57,4 +57,4 @@ if st.button('Predict'):
     sns.histplot(sample_data['BMI'], ax=ax)
     ax.set_title("Sample BMI Distribution")
 
-    st.pyplot(fig)
+
